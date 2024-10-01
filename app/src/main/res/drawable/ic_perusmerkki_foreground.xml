@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:label="martti"
+        android:fillColor="@color/perusmerkkivariant"
+        android:fillType="nonZero"
+        android:pathData="M28,42
+                            A8,8 0 1,1 44,42
+                            A8,8 0 1,1 28,42
+                            z"
+        android:strokeWidth="1"
+        android:strokeColor="#00000000" />
+    <path
+        android:label="aapo"
+        android:fillColor="@color/perusmerkkivariant"
+        android:fillType="nonZero"
+        android:pathData="M40,54
+                            A8,8 0 1,1 56,54
+                            A8,8 0 1,1 40,54
+                            z"
+        android:strokeWidth="1"
+        android:strokeColor="#00000000" />
+    <path
+        android:label="jan"
+        android:fillColor="@color/perusmerkkivariant"
+        android:fillType="nonZero"
+        android:pathData="M52,66
+                            A8,8 0 1,1 68,66
+                            A8,8 0 1,1 52,66
+                            z"
+        android:strokeWidth="1"
+        android:strokeColor="#00000000" />
+    <path
+        android:label="keinis"
+        android:fillColor="@color/perusmerkkivariant"
+        android:fillType="nonZero"
+        android:pathData="M64,54
+                            A8,8 0 1,1 80,54
+                            A8,8 0 1,1 64,54
+                            z"
+        android:strokeWidth="1"
+        android:strokeColor="#00000000" />
+</vector>
